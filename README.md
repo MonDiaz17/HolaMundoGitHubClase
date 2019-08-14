@@ -1,0 +1,2 @@
+# HolaMundoGitHubClase
+ejercicio en c#
